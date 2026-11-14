@@ -1,0 +1,25 @@
+name: Novel Commit Monitor
+
+on:
+  push:
+    branches:
+      - main
+
+# 新推送會取消舊的等待流程
+concurrency:
+  group: novel-quiet-period-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  wait-for-quiet:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Wait for 10 minutes
+        run: sleep 600
+
+      - name: Work completed
+        run: echo "10 minutes without new commits. Work completed."
+
+      - name: Start next stage
+        run: echo "Ready for next workflow"
