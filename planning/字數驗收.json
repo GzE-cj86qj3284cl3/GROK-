@@ -1,15 +1,15 @@
 {
   "minimum": 8000,
-  "total_han": 18046,
-  "passing_chapters": 0,
+  "total_han": 23809,
+  "passing_chapters": 1,
   "total_chapters": 10,
   "chapters": [
     {
       "chapter": 1,
       "file": "第001章_海島的早晨.md",
-      "han_characters": 2334,
-      "meets_minimum": false,
-      "missing": 5666
+      "han_characters": 8097,
+      "meets_minimum": true,
+      "missing": 0
     },
     {
       "chapter": 2,
