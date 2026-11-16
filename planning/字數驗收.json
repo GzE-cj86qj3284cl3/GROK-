@@ -1,43 +1,43 @@
 {
   "minimum": 8000,
-  "total_han": 45163,
+  "total_han": 46202,
   "passing_chapters": 4,
   "total_chapters": 10,
   "chapters": [
     {
       "chapter": 1,
       "file": "第001章_海島的早晨.md",
-      "han_characters": 8097,
+      "han_characters": 8093,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 2,
       "file": "第002章_灰域的潮氣.md",
-      "han_characters": 8341,
+      "han_characters": 8153,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 3,
       "file": "第003章_回島的回響.md",
-      "han_characters": 8061,
+      "han_characters": 8269,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 4,
       "file": "第004章_東側平臺的夜風.md",
-      "han_characters": 8050,
+      "han_characters": 8691,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 5,
       "file": "第005章_清晨的殘溫.md",
-      "han_characters": 3572,
+      "han_characters": 3954,
       "meets_minimum": false,
-      "missing": 4428
+      "missing": 4046
     },
     {
       "chapter": 6,
