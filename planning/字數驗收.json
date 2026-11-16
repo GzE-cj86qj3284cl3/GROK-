@@ -1,6 +1,6 @@
 {
   "minimum": 8000,
-  "total_han": 43143,
+  "total_han": 45163,
   "passing_chapters": 4,
   "total_chapters": 10,
   "chapters": [
@@ -35,9 +35,9 @@
     {
       "chapter": 5,
       "file": "第005章_清晨的殘溫.md",
-      "han_characters": 1552,
+      "han_characters": 3572,
       "meets_minimum": false,
-      "missing": 6448
+      "missing": 4428
     },
     {
       "chapter": 6,
