@@ -1,7 +1,7 @@
 {
   "minimum": 8000,
-  "total_han": 23809,
-  "passing_chapters": 1,
+  "total_han": 30395,
+  "passing_chapters": 2,
   "total_chapters": 10,
   "chapters": [
     {
@@ -14,9 +14,9 @@
     {
       "chapter": 2,
       "file": "第002章_灰域的潮氣.md",
-      "han_characters": 1755,
-      "meets_minimum": false,
-      "missing": 6245
+      "han_characters": 8341,
+      "meets_minimum": true,
+      "missing": 0
     },
     {
       "chapter": 3,
