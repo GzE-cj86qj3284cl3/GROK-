@@ -1,7 +1,7 @@
 {
   "minimum": 8000,
-  "total_han": 30413,
-  "passing_chapters": 2,
+  "total_han": 36608,
+  "passing_chapters": 3,
   "total_chapters": 10,
   "chapters": [
     {
@@ -21,9 +21,9 @@
     {
       "chapter": 3,
       "file": "第003章_回島的回響.md",
-      "han_characters": 1866,
-      "meets_minimum": false,
-      "missing": 6134
+      "han_characters": 8061,
+      "meets_minimum": true,
+      "missing": 0
     },
     {
       "chapter": 4,
