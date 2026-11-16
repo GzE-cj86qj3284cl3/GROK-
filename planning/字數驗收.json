@@ -1,7 +1,7 @@
 {
   "minimum": 8000,
-  "total_han": 36608,
-  "passing_chapters": 3,
+  "total_han": 43143,
+  "passing_chapters": 4,
   "total_chapters": 10,
   "chapters": [
     {
@@ -28,9 +28,9 @@
     {
       "chapter": 4,
       "file": "第004章_東側平臺的夜風.md",
-      "han_characters": 1515,
-      "meets_minimum": false,
-      "missing": 6485
+      "han_characters": 8050,
+      "meets_minimum": true,
+      "missing": 0
     },
     {
       "chapter": 5,
