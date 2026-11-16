@@ -1,6 +1,6 @@
 {
   "minimum": 8000,
-  "total_han": 76857,
+  "total_han": 76987,
   "passing_chapters": 9,
   "total_chapters": 10,
   "chapters": [
@@ -63,7 +63,7 @@
     {
       "chapter": 9,
       "file": "第009章_遠處的停留.md",
-      "han_characters": 8059,
+      "han_characters": 8189,
       "meets_minimum": true,
       "missing": 0
     },
