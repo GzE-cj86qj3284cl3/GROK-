@@ -1,7 +1,7 @@
 {
   "minimum": 8000,
-  "total_han": 63432,
-  "passing_chapters": 7,
+  "total_han": 70235,
+  "passing_chapters": 8,
   "total_chapters": 10,
   "chapters": [
     {
@@ -56,9 +56,9 @@
     {
       "chapter": 8,
       "file": "第008章_沒有人的回聲.md",
-      "han_characters": 1383,
-      "meets_minimum": false,
-      "missing": 6617
+      "han_characters": 8186,
+      "meets_minimum": true,
+      "missing": 0
     },
     {
       "chapter": 9,
