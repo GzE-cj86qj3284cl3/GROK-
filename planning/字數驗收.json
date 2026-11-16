@@ -1,7 +1,7 @@
 {
   "minimum": 8000,
-  "total_han": 46202,
-  "passing_chapters": 4,
+  "total_han": 50496,
+  "passing_chapters": 5,
   "total_chapters": 10,
   "chapters": [
     {
@@ -14,7 +14,7 @@
     {
       "chapter": 2,
       "file": "第002章_灰域的潮氣.md",
-      "han_characters": 8153,
+      "han_characters": 8344,
       "meets_minimum": true,
       "missing": 0
     },
@@ -35,9 +35,9 @@
     {
       "chapter": 5,
       "file": "第005章_清晨的殘溫.md",
-      "han_characters": 3954,
-      "meets_minimum": false,
-      "missing": 4046
+      "han_characters": 8057,
+      "meets_minimum": true,
+      "missing": 0
     },
     {
       "chapter": 6,
