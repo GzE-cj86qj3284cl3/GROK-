@@ -1,76 +1,76 @@
 {
   "minimum": 8000,
-  "total_han": 87642,
+  "total_han": 89118,
   "passing_chapters": 10,
   "total_chapters": 10,
   "chapters": [
     {
       "chapter": 1,
       "file": "第001章_海島的早晨.md",
-      "han_characters": 8490,
+      "han_characters": 8582,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 2,
       "file": "第002章_灰域的潮氣.md",
-      "han_characters": 9294,
+      "han_characters": 9458,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 3,
       "file": "第003章_回島的回響.md",
-      "han_characters": 8676,
+      "han_characters": 8709,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 4,
       "file": "第004章_東側平臺的夜風.md",
-      "han_characters": 9273,
+      "han_characters": 9354,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 5,
       "file": "第005章_清晨的殘溫.md",
-      "han_characters": 8594,
+      "han_characters": 8621,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 6,
       "file": "第006章_晨光裡的符號.md",
-      "han_characters": 9250,
+      "han_characters": 9854,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 7,
       "file": "第007章_岸線的盲點.md",
-      "han_characters": 8750,
+      "han_characters": 8748,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 8,
       "file": "第008章_沒有人的回聲.md",
-      "han_characters": 8670,
+      "han_characters": 8803,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 9,
       "file": "第009章_遠處的停留.md",
-      "han_characters": 8510,
+      "han_characters": 8508,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 10,
       "file": "第010章_潮汐之外.md",
-      "han_characters": 8135,
+      "han_characters": 8481,
       "meets_minimum": true,
       "missing": 0
     }
