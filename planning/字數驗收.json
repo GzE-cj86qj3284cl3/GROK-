@@ -1,78 +1,78 @@
 {
   "minimum": 8000,
-  "total_han": 76987,
-  "passing_chapters": 9,
+  "total_han": 87642,
+  "passing_chapters": 10,
   "total_chapters": 10,
   "chapters": [
     {
       "chapter": 1,
       "file": "第001章_海島的早晨.md",
-      "han_characters": 8093,
+      "han_characters": 8490,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 2,
       "file": "第002章_灰域的潮氣.md",
-      "han_characters": 8344,
+      "han_characters": 9294,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 3,
       "file": "第003章_回島的回響.md",
-      "han_characters": 8269,
+      "han_characters": 8676,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 4,
       "file": "第004章_東側平臺的夜風.md",
-      "han_characters": 8691,
+      "han_characters": 9273,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 5,
       "file": "第005章_清晨的殘溫.md",
-      "han_characters": 8057,
+      "han_characters": 8594,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 6,
       "file": "第006章_晨光裡的符號.md",
-      "han_characters": 8190,
+      "han_characters": 9250,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 7,
       "file": "第007章_岸線的盲點.md",
-      "han_characters": 8059,
+      "han_characters": 8750,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 8,
       "file": "第008章_沒有人的回聲.md",
-      "han_characters": 8186,
+      "han_characters": 8670,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 9,
       "file": "第009章_遠處的停留.md",
-      "han_characters": 8189,
+      "han_characters": 8510,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 10,
       "file": "第010章_潮汐之外.md",
-      "han_characters": 2909,
-      "meets_minimum": false,
-      "missing": 5091
+      "han_characters": 8135,
+      "meets_minimum": true,
+      "missing": 0
     }
   ]
 }
