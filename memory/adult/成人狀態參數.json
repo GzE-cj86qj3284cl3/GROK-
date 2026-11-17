@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-11-17",
+  "characters": {
+    "雪鴨": {
+      "adult_status_confirmed": true,
+      "body_sensitivity": null,
+      "sexual_openness": null,
+      "initiative": null,
+      "exploration_desire": null,
+      "intense_interaction_preference": null,
+      "emotional_dependence": {
+        "聞瀾": null
+      },
+      "intimate_trust": {
+        "聞瀾": null
+      },
+      "known_boundaries": [
+        "明確區分工作／報酬／過去經歷與當下同意",
+        "可隨時停止",
+        "不自動成立長期授權或戀愛承諾"
+      ]
+    },
+    "聞瀾": {
+      "adult_status_confirmed": true,
+      "age": 32,
+      "body_sensitivity": null,
+      "sexual_openness": null,
+      "initiative": null,
+      "exploration_desire": null,
+      "intense_interaction_preference": null,
+      "emotional_dependence": {
+        "雪鴨": null
+      },
+      "intimate_trust": {
+        "雪鴨": null
+      },
+      "known_boundaries": [
+        "尊重對方主動性",
+        "不以生理反應取代同意",
+        "事前確認可不進行任何事"
+      ]
+    }
+  },
+  "events": [
+    {
+      "id": "R18-01",
+      "chapter": "第010章",
+      "participants": ["雪鴨", "聞瀾"],
+      "type": "consensual_female_intimacy",
+      "date_in_story": "D5 evening"
+    }
+  ]
+}
