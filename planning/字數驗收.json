@@ -1,6 +1,6 @@
 {
   "minimum": 8000,
-  "total_han": 91048,
+  "total_han": 89749,
   "passing_chapters": 10,
   "total_chapters": 10,
   "chapters": [
@@ -70,7 +70,7 @@
     {
       "chapter": 10,
       "file": "第010章_潮汐之外.md",
-      "han_characters": 9950,
+      "han_characters": 8651,
       "meets_minimum": true,
       "missing": 0
     }
