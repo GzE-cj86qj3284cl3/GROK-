@@ -1,0 +1,36 @@
+{
+  "volume": 2,
+  "volume_title": "借名航線",
+  "minimum": 8000,
+  "chapters_planned": 10,
+  "chapters_written": 2,
+  "passing_chapters": 2,
+  "total_han": 18249,
+  "chapters": [
+    {
+      "chapter": 11,
+      "file": "第011章_不會漏水的雨棚.md",
+      "han_characters": 9376,
+      "meets_minimum": true,
+      "status": "complete_draft"
+    },
+    {
+      "chapter": 12,
+      "file": "第012章_已離場的人.md",
+      "han_characters": 8873,
+      "meets_minimum": true,
+      "status": "complete_draft"
+    }
+  ],
+  "pending_chapters": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "count_method": "U+3400–U+4DBF, U+4E00–U+9FFF, U+F900–U+FAFF; exclude initial heading"
+}
