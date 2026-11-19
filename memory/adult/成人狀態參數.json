@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "characters": {
     "雪鴨": {
       "adult_status_confirmed": true,
@@ -107,7 +107,7 @@
       ],
       "type": "consensual_private_adult_intimacy",
       "date_in_story": "D9 evening",
-      "detail_status": "non_graphic_event_confirmed_detailed_scene_pending"
+      "detail_status": "detailed_scene_written_and_context_restored"
     },
     {
       "id": "R18-03",
@@ -118,7 +118,10 @@
       ],
       "type": "consensual_private_adult_intimacy",
       "date_in_story": "D18 evening",
-      "detail_status": "non_graphic_event_confirmed_detailed_scene_pending"
+      "detail_status": "detailed_scene_written_and_context_restored"
     }
+  ],
+  "notes": [
+    "R18-02 / R18-03 詳細正文已補寫，原成人標記之外文本逐字復原；未知晶片與親密生理反應之聯結無證據，不設定量化參數。"
   ]
 }
