@@ -11,11 +11,13 @@
       "intense_interaction_preference": null,
       "emotional_dependence": {
         "聞瀾": null,
-        "尹徹": null
+        "尹徹": null,
+        "陸策": null
       },
       "intimate_trust": {
         "聞瀾": null,
-        "尹徹": null
+        "尹徹": null,
+        "陸策": null
       },
       "known_boundaries": [
         "明確區分工作／報酬／過去經歷與當下同意",
@@ -63,6 +65,26 @@
         "私人親密與場館工作服務、調查授權及收入獨立",
         "不自動成立永久授權或排他關係"
       ]
+    },
+    "陸策": {
+      "adult_status_confirmed": true,
+      "age": 36,
+      "body_sensitivity": null,
+      "sexual_openness": null,
+      "initiative": null,
+      "exploration_desire": null,
+      "intense_interaction_preference": null,
+      "emotional_dependence": {
+        "雪鴨": null
+      },
+      "intimate_trust": {
+        "雪鴨": null
+      },
+      "known_boundaries": [
+        "D15救援及所有工作指揮與D18私人親密區分",
+        "雙方可隨時停止並顧及雪鴨右手腕傷勢",
+        "不自動成立排他關係、永久居住／資料授權"
+      ]
     }
   },
   "events": [
@@ -85,6 +107,17 @@
       ],
       "type": "consensual_private_adult_intimacy",
       "date_in_story": "D9 evening",
+      "detail_status": "non_graphic_event_confirmed_detailed_scene_pending"
+    },
+    {
+      "id": "R18-03",
+      "chapter": "第020章",
+      "participants": [
+        "雪鴨",
+        "陸策"
+      ],
+      "type": "consensual_private_adult_intimacy",
+      "date_in_story": "D18 evening",
       "detail_status": "non_graphic_event_confirmed_detailed_scene_pending"
     }
   ]
