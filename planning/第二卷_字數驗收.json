@@ -3,9 +3,9 @@
   "volume_title": "借名航線",
   "minimum": 8000,
   "chapters_planned": 10,
-  "chapters_written": 5,
-  "passing_chapters": 5,
-  "total_han": 47210,
+  "chapters_written": 6,
+  "passing_chapters": 6,
+  "total_han": 56109,
   "chapters": [
     {
       "chapter": 11,
@@ -41,10 +41,16 @@
       "han_characters": 10069,
       "meets_minimum": true,
       "status": "complete_draft"
+    },
+    {
+      "chapter": 16,
+      "file": "第016章_隔水層.md",
+      "han_characters": 8899,
+      "meets_minimum": true,
+      "status": "complete_draft"
     }
   ],
   "pending_chapters": [
-    16,
     17,
     18,
     19,
