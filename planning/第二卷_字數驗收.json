@@ -3,9 +3,9 @@
   "volume_title": "借名航線",
   "minimum": 8000,
   "chapters_planned": 10,
-  "chapters_written": 8,
-  "passing_chapters": 8,
-  "total_han": 73682,
+  "chapters_written": 10,
+  "passing_chapters": 10,
+  "total_han": 91170,
   "chapters": [
     {
       "chapter": 11,
@@ -62,11 +62,27 @@
       "han_characters": 8828,
       "meets_minimum": true,
       "status": "complete_draft"
+    },
+    {
+      "chapter": 19,
+      "file": "第019章_撤離名冊.md",
+      "han_characters": 8446,
+      "meets_minimum": true,
+      "status": "complete_draft"
+    },
+    {
+      "chapter": 20,
+      "file": "第020章_名字還給誰.md",
+      "han_characters": 9042,
+      "meets_minimum": true,
+      "status": "complete_draft"
     }
   ],
-  "pending_chapters": [
-    19,
-    20
-  ],
-  "count_method": "U+3400–U+4DBF, U+4E00–U+9FFF, U+F900–U+FAFF; exclude initial heading"
+  "pending_chapters": [],
+  "count_method": "U+3400–U+4DBF, U+4E00–U+9FFF, U+F900–U+FAFF; exclude initial heading",
+  "volume_status": "all_chapters_complete_draft_editorial_review_pending",
+  "adult_scene_details_pending": [
+    "R18-02",
+    "R18-03"
+  ]
 }
