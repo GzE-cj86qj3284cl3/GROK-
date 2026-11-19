@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-19",
   "characters": {
     "雪鴨": {
       "adult_status_confirmed": true,
@@ -10,10 +10,12 @@
       "exploration_desire": null,
       "intense_interaction_preference": null,
       "emotional_dependence": {
-        "聞瀾": null
+        "聞瀾": null,
+        "尹徹": null
       },
       "intimate_trust": {
-        "聞瀾": null
+        "聞瀾": null,
+        "尹徹": null
       },
       "known_boundaries": [
         "明確區分工作／報酬／過去經歷與當下同意",
@@ -40,15 +42,50 @@
         "不以生理反應取代同意",
         "事前確認可不進行任何事"
       ]
+    },
+    "尹徹": {
+      "adult_status_confirmed": true,
+      "age": null,
+      "age_note": "正文描述三十多歲；企劃暫定35歲，正式數字未在正文明示",
+      "body_sensitivity": null,
+      "sexual_openness": null,
+      "initiative": null,
+      "exploration_desire": null,
+      "intense_interaction_preference": null,
+      "emotional_dependence": {
+        "雪鴨": null
+      },
+      "intimate_trust": {
+        "雪鴨": null
+      },
+      "known_boundaries": [
+        "當次意願可隨時停止",
+        "私人親密與場館工作服務、調查授權及收入獨立",
+        "不自動成立永久授權或排他關係"
+      ]
     }
   },
   "events": [
     {
       "id": "R18-01",
       "chapter": "第010章",
-      "participants": ["雪鴨", "聞瀾"],
+      "participants": [
+        "雪鴨",
+        "聞瀾"
+      ],
       "type": "consensual_female_intimacy",
       "date_in_story": "D5 evening"
+    },
+    {
+      "id": "R18-02",
+      "chapter": "第014章",
+      "participants": [
+        "雪鴨",
+        "尹徹"
+      ],
+      "type": "consensual_private_adult_intimacy",
+      "date_in_story": "D9 evening",
+      "detail_status": "non_graphic_event_confirmed_detailed_scene_pending"
     }
   ]
 }
