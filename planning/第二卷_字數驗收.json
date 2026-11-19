@@ -3,9 +3,9 @@
   "volume_title": "借名航線",
   "minimum": 8000,
   "chapters_planned": 10,
-  "chapters_written": 2,
-  "passing_chapters": 2,
-  "total_han": 18249,
+  "chapters_written": 4,
+  "passing_chapters": 4,
+  "total_han": 37141,
   "chapters": [
     {
       "chapter": 11,
@@ -20,11 +20,23 @@
       "han_characters": 8873,
       "meets_minimum": true,
       "status": "complete_draft"
+    },
+    {
+      "chapter": 13,
+      "file": "第013章_潮幕庭的入場券.md",
+      "han_characters": 9586,
+      "meets_minimum": true,
+      "status": "complete_draft"
+    },
+    {
+      "chapter": 14,
+      "file": "第014章_匿名的價格.md",
+      "han_characters": 9306,
+      "meets_minimum": true,
+      "status": "complete_draft"
     }
   ],
   "pending_chapters": [
-    13,
-    14,
     15,
     16,
     17,
