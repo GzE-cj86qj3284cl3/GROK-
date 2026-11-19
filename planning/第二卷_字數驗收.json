@@ -3,9 +3,9 @@
   "volume_title": "借名航線",
   "minimum": 8000,
   "chapters_planned": 10,
-  "chapters_written": 6,
-  "passing_chapters": 6,
-  "total_han": 56109,
+  "chapters_written": 8,
+  "passing_chapters": 8,
+  "total_han": 73682,
   "chapters": [
     {
       "chapter": 11,
@@ -48,11 +48,23 @@
       "han_characters": 8899,
       "meets_minimum": true,
       "status": "complete_draft"
+    },
+    {
+      "chapter": 17,
+      "file": "第017章_兩個不同的失蹤者.md",
+      "han_characters": 8745,
+      "meets_minimum": true,
+      "status": "complete_draft"
+    },
+    {
+      "chapter": 18,
+      "file": "第018章_簽下自己的名字.md",
+      "han_characters": 8828,
+      "meets_minimum": true,
+      "status": "complete_draft"
     }
   ],
   "pending_chapters": [
-    17,
-    18,
     19,
     20
   ],
