@@ -5,7 +5,7 @@
   "chapters_planned": 10,
   "chapters_written": 10,
   "passing_chapters": 10,
-  "total_han": 92930,
+  "total_han": 92929,
   "chapters": [
     {
       "chapter": 11,
@@ -24,7 +24,7 @@
     {
       "chapter": 13,
       "file": "第013章_潮幕庭的入場券.md",
-      "han_characters": 9612,
+      "han_characters": 9611,
       "meets_minimum": true,
       "status": "complete_draft"
     },
