@@ -5,7 +5,7 @@
   "chapters_planned": 10,
   "chapters_written": 10,
   "passing_chapters": 10,
-  "total_han": 93328,
+  "total_han": 92930,
   "chapters": [
     {
       "chapter": 11,
@@ -17,21 +17,21 @@
     {
       "chapter": 12,
       "file": "第012章_已離場的人.md",
-      "han_characters": 8873,
+      "han_characters": 8807,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 13,
       "file": "第013章_潮幕庭的入場券.md",
-      "han_characters": 9586,
+      "han_characters": 9612,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 14,
       "file": "第014章_匿名的價格.md",
-      "han_characters": 10476,
+      "han_characters": 10430,
       "meets_minimum": true,
       "status": "complete_draft"
     },
@@ -45,46 +45,46 @@
     {
       "chapter": 16,
       "file": "第016章_隔水層.md",
-      "han_characters": 8899,
+      "han_characters": 8895,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 17,
       "file": "第017章_兩個不同的失蹤者.md",
-      "han_characters": 8745,
+      "han_characters": 8704,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 18,
       "file": "第018章_簽下自己的名字.md",
-      "han_characters": 8828,
+      "han_characters": 8807,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 19,
       "file": "第019章_撤離名冊.md",
-      "han_characters": 8446,
+      "han_characters": 8371,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 20,
       "file": "第020章_名字還給誰.md",
-      "han_characters": 10030,
+      "han_characters": 9859,
       "meets_minimum": true,
       "status": "complete_draft"
     }
   ],
   "pending_chapters": [],
   "count_method": "U+3400–U+4DBF, U+4E00–U+9FFF, U+F900–U+FAFF; exclude initial heading",
-  "volume_status": "all_chapters_complete_draft_editorial_review_pending",
+  "volume_status": "all_chapters_complete_draft_targeted_character_polish_complete_full_editorial_review_pending",
   "adult_scene_details_pending": [],
   "adult_scene_details_completed": [
     "R18-02",
     "R18-03"
   ],
-  "last_verification": "After strict restore of both original chapter contexts, retaining GROK scenes within R18-02 and R18-03; non-scene text is exactly baseline f9f5f103e6c15117d4aaecb661479313bf57e924"
+  "last_verification": "2026-11-21: character agency/procedural over-explanation prose polish in chapters 012,013,014,016,017,018,019,020, with R18-02/R18-03 passages unchanged versus commit dc6a705ae2667f3d1ce6d5da00204ec5b4a79548"
 }
