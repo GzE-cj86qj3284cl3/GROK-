@@ -1,127 +1,23 @@
 {
-  "version": "1.0",
-  "last_updated": "2026-11-20",
-  "characters": {
-    "雪鴨": {
-      "adult_status_confirmed": true,
-      "body_sensitivity": null,
-      "sexual_openness": null,
-      "initiative": null,
-      "exploration_desire": null,
-      "intense_interaction_preference": null,
-      "emotional_dependence": {
-        "聞瀾": null,
-        "尹徹": null,
-        "陸策": null
-      },
-      "intimate_trust": {
-        "聞瀾": null,
-        "尹徹": null,
-        "陸策": null
-      },
-      "known_boundaries": [
-        "明確區分工作／報酬／過去經歷與當下同意",
-        "可隨時停止",
-        "不自動成立長期授權或戀愛承諾"
-      ]
-    },
-    "聞瀾": {
-      "adult_status_confirmed": true,
-      "age": 32,
-      "body_sensitivity": null,
-      "sexual_openness": null,
-      "initiative": null,
-      "exploration_desire": null,
-      "intense_interaction_preference": null,
-      "emotional_dependence": {
-        "雪鴨": null
-      },
-      "intimate_trust": {
-        "雪鴨": null
-      },
-      "known_boundaries": [
-        "尊重對方主動性",
-        "不以生理反應取代同意",
-        "事前確認可不進行任何事"
-      ]
-    },
-    "尹徹": {
-      "adult_status_confirmed": true,
-      "age": null,
-      "age_note": "正文描述三十多歲；企劃暫定35歲，正式數字未在正文明示",
-      "body_sensitivity": null,
-      "sexual_openness": null,
-      "initiative": null,
-      "exploration_desire": null,
-      "intense_interaction_preference": null,
-      "emotional_dependence": {
-        "雪鴨": null
-      },
-      "intimate_trust": {
-        "雪鴨": null
-      },
-      "known_boundaries": [
-        "當次意願可隨時停止",
-        "私人親密與場館工作服務、調查授權及收入獨立",
-        "不自動成立永久授權或排他關係"
-      ]
-    },
-    "陸策": {
-      "adult_status_confirmed": true,
-      "age": 36,
-      "body_sensitivity": null,
-      "sexual_openness": null,
-      "initiative": null,
-      "exploration_desire": null,
-      "intense_interaction_preference": null,
-      "emotional_dependence": {
-        "雪鴨": null
-      },
-      "intimate_trust": {
-        "雪鴨": null
-      },
-      "known_boundaries": [
-        "D15救援及所有工作指揮與D18私人親密區分",
-        "雙方可隨時停止並顧及雪鴨右手腕傷勢",
-        "不自動成立排他關係、永久居住／資料授權"
-      ]
-    }
+  "character": "雪鴨",
+  "last_updated": "2026-11-22",
+  "story_progress": "D23（第三卷第021章）",
+  "status_note": "依2026-11-22作者最新指示，強化雪鴨『又色又有趣、理智全能卻帶點天然呆』之鮮活感，並確立『透過過去影響現在、透過現在安撫過去（抵抗/掙扎、順從/麻痺、否定或接納過去）』的心理與感官層次。量化數值保留為null以避免機械套用，改以具體生理與心理反應規則約束。",
+  "parameters": {
+    "body_sensitivity": null,
+    "sexual_openness": null,
+    "initiative": null,
+    "exploration_desire": null,
+    "intense_interaction_preference": null
   },
-  "events": [
-    {
-      "id": "R18-01",
-      "chapter": "第010章",
-      "participants": [
-        "雪鴨",
-        "聞瀾"
-      ],
-      "type": "consensual_female_intimacy",
-      "date_in_story": "D5 evening"
-    },
-    {
-      "id": "R18-02",
-      "chapter": "第014章",
-      "participants": [
-        "雪鴨",
-        "尹徹"
-      ],
-      "type": "consensual_private_adult_intimacy",
-      "date_in_story": "D9 evening",
-      "detail_status": "detailed_scene_written_and_context_restored"
-    },
-    {
-      "id": "R18-03",
-      "chapter": "第020章",
-      "participants": [
-        "雪鴨",
-        "陸策"
-      ],
-      "type": "consensual_private_adult_intimacy",
-      "date_in_story": "D18 evening",
-      "detail_status": "detailed_scene_written_and_context_restored"
-    }
-  ],
-  "notes": [
-    "R18-02 / R18-03 詳細正文已補寫，原成人標記之外文本逐字復原；未知晶片與親密生理反應之聯結無證據，不設定量化參數。"
+  "qualitative_profile": {
+    "physical_conditioning": "曾於地下組織受過高規格敏感化改造，乳尖、後頸、腰側與陰道前壁／子宮深處對特定頻率、體溫與強勢觸碰具極快之條件反射（常比理智先一步充血滲濕）。",
+    "psychological_dynamics": "面對突發感官刺激或受限情境時，會出現過去馴化留下的『麻痺順從／空洞待命』或『防備掙扎／羞恥嘴硬』慣性；但能透過當下對象的尊重與自身好勝心搶回主導或安心交託，將過去被迫開發的敏感轉化為現在自主享受的快樂。",
+    "personality_contrast": "高潮前後仍會維持冷靜語調或突然開始心算洗床單水費、退房費、睡眠工時與早餐份量，展現理智算計與天然呆並存的色氣反差。"
+  },
+  "completed_events": [
+    "R18-01（第010章，聞瀾，D5晚間：破除麻痺順從慣性、反推奪回主導與失控潮吹）",
+    "R18-02（第014章，尹徹，D9夜間：快拆內衣意外彈開、抗拒被專家看穿敏感帶的欲拒還迎與深處騎乘／後段強勢頂弄）",
+    "R18-03（第020章，陸策，D18晚間：右腕負傷單手受限下的防備掙扎、要害交託與懸殊體格差下的深重交合）"
   ]
 }
