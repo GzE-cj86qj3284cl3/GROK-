@@ -5,7 +5,7 @@
   "chapters_planned": 10,
   "chapters_written": 10,
   "passing_chapters": 10,
-  "total_han": 92936,
+  "total_han": 94541,
   "chapters": [
     {
       "chapter": 11,
@@ -31,7 +31,7 @@
     {
       "chapter": 14,
       "file": "第014章_匿名的價格.md",
-      "han_characters": 10352,
+      "han_characters": 11215,
       "meets_minimum": true,
       "status": "complete_draft"
     },
@@ -73,18 +73,18 @@
     {
       "chapter": 20,
       "file": "第020章_名字還給誰.md",
-      "han_characters": 9831,
+      "han_characters": 10573,
       "meets_minimum": true,
       "status": "complete_draft"
     }
   ],
   "pending_chapters": [],
   "count_method": "U+3400–U+4DBF, U+4E00–U+9FFF, U+F900–U+FAFF; exclude # heading lines",
-  "volume_status": "all_chapters_complete_draft_targeted_character_polish_complete_full_editorial_review_pending",
+  "volume_status": "all_chapters_complete_draft_targeted_character_polish_complete_priority_b_r18_rewrites_complete",
   "adult_scene_details_pending": [],
   "adult_scene_details_completed": [
     "R18-02",
     "R18-03"
   ],
-  "last_verification": "2026-11-22: synced live Hanzi counts after cross-volume natural chronology edit and validate_chapters.py multi-volume update; R18-02/R18-03 unchanged"
+  "last_verification": "2026-11-22: synced live Hanzi counts after Priority B R18-02/R18-03 rewrites and logic-bridge fixes"
 }
