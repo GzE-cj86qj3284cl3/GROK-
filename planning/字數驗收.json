@@ -1,34 +1,34 @@
 {
   "minimum": 8000,
-  "total_han": 92426,
+  "total_han": 91140,
   "passing_chapters": 10,
   "total_chapters": 10,
   "chapters": [
     {
       "chapter": 1,
       "file": "第001章_海島的早晨.md",
-      "han_characters": 8885,
+      "han_characters": 8957,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 2,
       "file": "第002章_灰域的潮氣.md",
-      "han_characters": 8827,
+      "han_characters": 8345,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 3,
       "file": "第003章_回島的回響.md",
-      "han_characters": 9639,
+      "han_characters": 8980,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 4,
       "file": "第004章_東側平臺的夜風.md",
-      "han_characters": 8162,
+      "han_characters": 8136,
       "meets_minimum": true,
       "missing": 0
     },
@@ -42,7 +42,7 @@
     {
       "chapter": 6,
       "file": "第006章_晨光裡的符號.md",
-      "han_characters": 10140,
+      "han_characters": 10044,
       "meets_minimum": true,
       "missing": 0
     },
@@ -56,7 +56,7 @@
     {
       "chapter": 8,
       "file": "第008章_沒有人的回聲.md",
-      "han_characters": 9187,
+      "han_characters": 9092,
       "meets_minimum": true,
       "missing": 0
     },
@@ -75,6 +75,6 @@
       "missing": 0
     }
   ],
-  "editorial_note": "2026-11-22: synced live Hanzi counts after Vol 1 de-audit, sensory/conditioning tension & inner-monologue overhaul (Ch.002/003/004/007)",
+  "editorial_note": "2026-11-22: synced live Hanzi counts after self-audit de-duplication & official Snow Duck concept-art calibration pass (Ch.001/002/003/004/006/008)",
   "last_verified": "2026-11-22"
 }
