@@ -1,13 +1,13 @@
 {
   "minimum": 8000,
-  "total_han": 90588,
+  "total_han": 92718,
   "passing_chapters": 10,
   "total_chapters": 10,
   "chapters": [
     {
       "chapter": 1,
       "file": "第001章_海島的早晨.md",
-      "han_characters": 8506,
+      "han_characters": 8885,
       "meets_minimum": true,
       "missing": 0
     },
@@ -42,7 +42,7 @@
     {
       "chapter": 6,
       "file": "第006章_晨光裡的符號.md",
-      "han_characters": 9848,
+      "han_characters": 10140,
       "meets_minimum": true,
       "missing": 0
     },
@@ -56,25 +56,25 @@
     {
       "chapter": 8,
       "file": "第008章_沒有人的回聲.md",
-      "han_characters": 8888,
+      "han_characters": 9187,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 9,
       "file": "第009章_遠處的停留.md",
-      "han_characters": 8553,
+      "han_characters": 8830,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 10,
       "file": "第010章_潮汐之外.md",
-      "han_characters": 10276,
+      "han_characters": 11159,
       "meets_minimum": true,
       "missing": 0
     }
   ],
-  "editorial_note": "2026-11-22: synced live Hanzi counts after cross-volume natural chronology edit and validate_chapters.py multi-volume update; A00-A03 and R18-01 text unchanged versus 2026-11-21 baseline",
+  "editorial_note": "2026-11-22: synced live Hanzi counts after Priority B sensory/psychological depth rewrite of A00-A03 and R18-01",
   "last_verified": "2026-11-22"
 }
