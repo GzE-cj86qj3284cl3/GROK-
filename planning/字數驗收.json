@@ -1,80 +1,80 @@
 {
   "minimum": 8000,
-  "total_han": 90765,
+  "total_han": 90588,
   "passing_chapters": 10,
   "total_chapters": 10,
   "chapters": [
     {
       "chapter": 1,
       "file": "第001章_海島的早晨.md",
-      "han_characters": 8537,
+      "han_characters": 8506,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 2,
       "file": "第002章_灰域的潮氣.md",
-      "han_characters": 9411,
+      "han_characters": 9393,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 3,
       "file": "第003章_回島的回響.md",
-      "han_characters": 8709,
+      "han_characters": 8700,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 4,
       "file": "第004章_東側平臺的夜風.md",
-      "han_characters": 9235,
+      "han_characters": 9171,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 5,
       "file": "第005章_清晨的殘溫.md",
-      "han_characters": 8621,
+      "han_characters": 8597,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 6,
       "file": "第006章_晨光裡的符號.md",
-      "han_characters": 9987,
+      "han_characters": 9848,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 7,
       "file": "第007章_岸線的盲點.md",
-      "han_characters": 8647,
+      "han_characters": 8656,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 8,
       "file": "第008章_沒有人的回聲.md",
-      "han_characters": 8887,
+      "han_characters": 8888,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 9,
       "file": "第009章_遠處的停留.md",
-      "han_characters": 8586,
+      "han_characters": 8553,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 10,
       "file": "第010章_潮汐之外.md",
-      "han_characters": 10145,
+      "han_characters": 10276,
       "meets_minimum": true,
       "missing": 0
     }
   ],
-  "editorial_note": "2026-11-21: targeted over-negation and agency prose revision in chapters 001,002,004,007,008,009,010; A00-A03 and R18-01 text unchanged versus commit dc6a705ae2667f3d1ce6d5da00204ec5b4a79548",
-  "last_verified": "2026-11-21"
+  "editorial_note": "2026-11-22: synced live Hanzi counts after cross-volume natural chronology edit and validate_chapters.py multi-volume update; A00-A03 and R18-01 text unchanged versus 2026-11-21 baseline",
+  "last_verified": "2026-11-22"
 }
