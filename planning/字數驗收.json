@@ -1,6 +1,6 @@
 {
   "minimum": 8000,
-  "total_han": 92718,
+  "total_han": 92426,
   "passing_chapters": 10,
   "total_chapters": 10,
   "chapters": [
@@ -14,21 +14,21 @@
     {
       "chapter": 2,
       "file": "第002章_灰域的潮氣.md",
-      "han_characters": 9393,
+      "han_characters": 8827,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 3,
       "file": "第003章_回島的回響.md",
-      "han_characters": 8700,
+      "han_characters": 9639,
       "meets_minimum": true,
       "missing": 0
     },
     {
       "chapter": 4,
       "file": "第004章_東側平臺的夜風.md",
-      "han_characters": 9171,
+      "han_characters": 8162,
       "meets_minimum": true,
       "missing": 0
     },
@@ -49,7 +49,7 @@
     {
       "chapter": 7,
       "file": "第007章_岸線的盲點.md",
-      "han_characters": 8656,
+      "han_characters": 9000,
       "meets_minimum": true,
       "missing": 0
     },
@@ -75,6 +75,6 @@
       "missing": 0
     }
   ],
-  "editorial_note": "2026-11-22: synced live Hanzi counts after Priority B sensory/psychological depth rewrite of A00-A03 and R18-01",
+  "editorial_note": "2026-11-22: synced live Hanzi counts after Vol 1 de-audit, sensory/conditioning tension & inner-monologue overhaul (Ch.002/003/004/007)",
   "last_verified": "2026-11-22"
 }
