@@ -1,13 +1,13 @@
 {
   "minimum": 8000,
-  "total_han": 91140,
+  "total_han": 91466,
   "passing_chapters": 10,
   "total_chapters": 10,
   "chapters": [
     {
       "chapter": 1,
       "file": "第001章_海島的早晨.md",
-      "han_characters": 8957,
+      "han_characters": 8925,
       "meets_minimum": true,
       "missing": 0
     },
@@ -21,7 +21,7 @@
     {
       "chapter": 3,
       "file": "第003章_回島的回響.md",
-      "han_characters": 8980,
+      "han_characters": 9096,
       "meets_minimum": true,
       "missing": 0
     },
@@ -42,7 +42,7 @@
     {
       "chapter": 6,
       "file": "第006章_晨光裡的符號.md",
-      "han_characters": 10044,
+      "han_characters": 10181,
       "meets_minimum": true,
       "missing": 0
     },
@@ -70,11 +70,11 @@
     {
       "chapter": 10,
       "file": "第010章_潮汐之外.md",
-      "han_characters": 11159,
+      "han_characters": 11264,
       "meets_minimum": true,
       "missing": 0
     }
   ],
-  "editorial_note": "2026-11-22: synced live Hanzi counts after self-audit de-duplication & official Snow Duck concept-art calibration pass (Ch.001/002/003/004/006/008)",
+  "editorial_note": "2026-11-22: synced live Hanzi counts after 5-suit wardrobe & concept-art (04-07) calibration (Ch.001/003/006/010)",
   "last_verified": "2026-11-22"
 }
