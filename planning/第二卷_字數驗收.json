@@ -5,7 +5,7 @@
   "chapters_planned": 10,
   "chapters_written": 10,
   "passing_chapters": 10,
-  "total_han": 96061,
+  "total_han": 96246,
   "chapters": [
     {
       "chapter": 11,
@@ -24,14 +24,14 @@
     {
       "chapter": 13,
       "file": "第013章_潮幕庭的入場券.md",
-      "han_characters": 10164,
+      "han_characters": 10255,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 14,
       "file": "第014章_匿名的價格.md",
-      "han_characters": 10955,
+      "han_characters": 11049,
       "meets_minimum": true,
       "status": "complete_draft"
     },
@@ -86,5 +86,5 @@
     "R18-02",
     "R18-03"
   ],
-  "last_verification": "2026-11-22: synced live Hanzi counts after self-audit de-duplication & official Snow Duck concept-art calibration pass (Ch.012/013/014/015/016/018)"
+  "last_verification": "2026-11-22: synced live Hanzi counts after 5-suit wardrobe & concept-art (04-07) calibration (Ch.013/014)"
 }
