@@ -5,7 +5,7 @@
   "chapters_planned": 10,
   "chapters_written": 10,
   "passing_chapters": 10,
-  "total_han": 96596,
+  "total_han": 96061,
   "chapters": [
     {
       "chapter": 11,
@@ -17,35 +17,35 @@
     {
       "chapter": 12,
       "file": "第012章_已離場的人.md",
-      "han_characters": 8724,
+      "han_characters": 8646,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 13,
       "file": "第013章_潮幕庭的入場券.md",
-      "han_characters": 10278,
+      "han_characters": 10164,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 14,
       "file": "第014章_匿名的價格.md",
-      "han_characters": 11215,
+      "han_characters": 10955,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 15,
       "file": "第015章_第二份報價.md",
-      "han_characters": 11104,
+      "han_characters": 11004,
       "meets_minimum": true,
       "status": "complete_draft"
     },
     {
       "chapter": 16,
       "file": "第016章_隔水層.md",
-      "han_characters": 8051,
+      "han_characters": 8106,
       "meets_minimum": true,
       "status": "complete_draft"
     },
@@ -59,7 +59,7 @@
     {
       "chapter": 18,
       "file": "第018章_簽下自己的名字.md",
-      "han_characters": 9168,
+      "han_characters": 9130,
       "meets_minimum": true,
       "status": "complete_draft"
     },
@@ -80,11 +80,11 @@
   ],
   "pending_chapters": [],
   "count_method": "U+3400–U+4DBF, U+4E00–U+9FFF, U+F900–U+FAFF; exclude # heading lines",
-  "volume_status": "all_chapters_complete_draft_deaudit_and_sensory_overhaul_complete_priority_b_r18_rewrites_complete",
+  "volume_status": "all_chapters_complete_draft_concept_art_calibrated_r18_complete",
   "adult_scene_details_pending": [],
   "adult_scene_details_completed": [
     "R18-02",
     "R18-03"
   ],
-  "last_verification": "2026-11-22: synced live Hanzi counts after Vol 2 de-audit, sensory/conditioning & inner-monologue overhaul (Ch.012/013/015/016/017/018/019)"
+  "last_verification": "2026-11-22: synced live Hanzi counts after self-audit de-duplication & official Snow Duck concept-art calibration pass (Ch.012/013/014/015/016/018)"
 }
